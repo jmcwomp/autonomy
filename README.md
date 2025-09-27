@@ -1,14 +1,13 @@
-# autonomy
+# autonomy 
 
-This repository tracks my **8-Week Roadmap** for learning CS + SWE skills.  
-Here I’ll keep:
-- Weekly notes
-- User flows / project plans
-- Links to deployed projects
 
-## Week 1
-- Setup React, Git, VS Code
-- Build a To-Do List app
-- Push first repos to GitHub
+Autonomy is a music discovery app that helps listeners generate playlists based on a **comfort vs. exploration** slider.  
+You decide whether you want to stay in your familiar genres or discover new indie artists and sounds. 
 
-Thank You!!
+Features (Planned)
+- Comfort ↔ Exploration slider to control how much discovery you want  
+- Genre selection to personalize your playlists  
+- Indie artist focus to spotlight new voices  
+- Playlist generation with save/share options
+
+  
